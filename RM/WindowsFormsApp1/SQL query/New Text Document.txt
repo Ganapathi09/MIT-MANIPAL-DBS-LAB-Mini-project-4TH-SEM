@@ -1,0 +1,52 @@
+create table category
+(
+catID int primary key identity,
+catName varchar(50)
+)
+
+
+create table tables
+(
+tid int primary key identity,
+tname varchar(15)
+)
+
+create table staff
+(
+staffID int primary key identity,
+sName varchar(50),
+sPhone varchar(50),
+sRole varchar(50)
+)
+
+create table staff
+(
+staffID int primary key identity,
+sName varchar(50),
+sPhone varchar(50),
+sRole varchar(50)
+)
+
+create table tblMain
+(
+MainID int Primary key identity,
+aDate date,
+Time varchar(15),
+TableName varchar(10),
+WaiterName varchar(15),
+status varchar(15),
+orderType varchar(15),
+total float,
+received float,
+change float,
+)
+
+create table tblDetails
+(
+DetailID int  Primary key identity,
+MainID int,
+proID int,
+qty int,
+price float,
+amount float,
+)

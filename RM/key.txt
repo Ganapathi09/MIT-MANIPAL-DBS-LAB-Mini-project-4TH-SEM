@@ -1,0 +1,1 @@
+@"Data source=DESKTOP-KTDQSKA\SQLEXPRESS;initial catalog=RM;User ID=sa; Password=gana;";

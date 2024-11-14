@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DBMS PROJECT\\RM\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72B4BC36-8DD9-4F0D-A52F-01AED393609D}|WindowsFormsApp1\\RM.csproj|d:\\dbms project\\rm\\windowsformsapp1\\windowsformsapp1\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B4BC36-8DD9-4F0D-A52F-01AED393609D}|WindowsFormsApp1\\RM.csproj|solutionrelative:windowsformsapp1\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B4BC36-8DD9-4F0D-A52F-01AED393609D}|WindowsFormsApp1\\RM.csproj|D:\\DBMS PROJECT\\RM\\WindowsFormsApp1\\windowsformsapp1\\sampleadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B4BC36-8DD9-4F0D-A52F-01AED393609D}|WindowsFormsApp1\\RM.csproj|solutionrelative:windowsformsapp1\\sampleadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B4BC36-8DD9-4F0D-A52F-01AED393609D}|WindowsFormsApp1\\RM.csproj|D:\\DBMS PROJECT\\RM\\WindowsFormsApp1\\windowsformsapp1\\sampleadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{72B4BC36-8DD9-4F0D-A52F-01AED393609D}|WindowsFormsApp1\\RM.csproj|solutionrelative:windowsformsapp1\\sampleadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B4BC36-8DD9-4F0D-A52F-01AED393609D}|WindowsFormsApp1\\RM.csproj|D:\\DBMS PROJECT\\RM\\WindowsFormsApp1\\windowsformsapp1\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{72B4BC36-8DD9-4F0D-A52F-01AED393609D}|WindowsFormsApp1\\RM.csproj|solutionrelative:windowsformsapp1\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B4BC36-8DD9-4F0D-A52F-01AED393609D}|WindowsFormsApp1\\RM.csproj|D:\\DBMS PROJECT\\RM\\WindowsFormsApp1\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B4BC36-8DD9-4F0D-A52F-01AED393609D}|WindowsFormsApp1\\RM.csproj|solutionrelative:windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B4BC36-8DD9-4F0D-A52F-01AED393609D}|WindowsFormsApp1\\RM.csproj|D:\\DBMS PROJECT\\RM\\WindowsFormsApp1\\windowsformsapp1\\model\\frmaddcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B4BC36-8DD9-4F0D-A52F-01AED393609D}|WindowsFormsApp1\\RM.csproj|solutionrelative:windowsformsapp1\\model\\frmaddcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B4BC36-8DD9-4F0D-A52F-01AED393609D}|WindowsFormsApp1\\RM.csproj|D:\\DBMS PROJECT\\RM\\WindowsFormsApp1\\windowsformsapp1\\model\\frmbilllist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B4BC36-8DD9-4F0D-A52F-01AED393609D}|WindowsFormsApp1\\RM.csproj|solutionrelative:windowsformsapp1\\model\\frmbilllist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B4BC36-8DD9-4F0D-A52F-01AED393609D}|WindowsFormsApp1\\RM.csproj|D:\\DBMS PROJECT\\RM\\WindowsFormsApp1\\windowsformsapp1\\model\\frmpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B4BC36-8DD9-4F0D-A52F-01AED393609D}|WindowsFormsApp1\\RM.csproj|solutionrelative:windowsformsapp1\\model\\frmpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SampleAdd.cs",
+              "DocumentMoniker": "D:\\DBMS PROJECT\\RM\\WindowsFormsApp1\\WindowsFormsApp1\\SampleAdd.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\SampleAdd.cs",
+              "ToolTip": "D:\\DBMS PROJECT\\RM\\WindowsFormsApp1\\WindowsFormsApp1\\SampleAdd.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\SampleAdd.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:08:03.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SampleAdd.cs [Design]",
+              "DocumentMoniker": "D:\\DBMS PROJECT\\RM\\WindowsFormsApp1\\WindowsFormsApp1\\SampleAdd.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\SampleAdd.cs",
+              "ToolTip": "D:\\DBMS PROJECT\\RM\\WindowsFormsApp1\\WindowsFormsApp1\\SampleAdd.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\SampleAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:07:59.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DBMS PROJECT\\RM\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Program.cs",
+              "ToolTip": "D:\\DBMS PROJECT\\RM\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:07:51.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainClass.cs",
+              "DocumentMoniker": "D:\\DBMS PROJECT\\RM\\WindowsFormsApp1\\WindowsFormsApp1\\MainClass.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\MainClass.cs",
+              "ToolTip": "D:\\DBMS PROJECT\\RM\\WindowsFormsApp1\\WindowsFormsApp1\\MainClass.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\MainClass.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:06:47.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmHome.cs [Design]",
+              "DocumentMoniker": "D:\\DBMS PROJECT\\RM\\WindowsFormsApp1\\WindowsFormsApp1\\frmHome.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\frmHome.cs",
+              "ToolTip": "D:\\DBMS PROJECT\\RM\\WindowsFormsApp1\\WindowsFormsApp1\\frmHome.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\frmHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:06:20.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmPOS.cs",
+              "DocumentMoniker": "D:\\DBMS PROJECT\\RM\\WindowsFormsApp1\\WindowsFormsApp1\\Model\\frmPOS.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Model\\frmPOS.cs",
+              "ToolTip": "D:\\DBMS PROJECT\\RM\\WindowsFormsApp1\\WindowsFormsApp1\\Model\\frmPOS.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Model\\frmPOS.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T04:19:27.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmBillList.cs",
+              "DocumentMoniker": "D:\\DBMS PROJECT\\RM\\WindowsFormsApp1\\WindowsFormsApp1\\Model\\frmBillList.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Model\\frmBillList.cs",
+              "ToolTip": "D:\\DBMS PROJECT\\RM\\WindowsFormsApp1\\WindowsFormsApp1\\Model\\frmBillList.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Model\\frmBillList.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAAAMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T04:00:37.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmAddCustomer.cs",
+              "DocumentMoniker": "D:\\DBMS PROJECT\\RM\\WindowsFormsApp1\\WindowsFormsApp1\\Model\\frmAddCustomer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Model\\frmAddCustomer.cs",
+              "ToolTip": "D:\\DBMS PROJECT\\RM\\WindowsFormsApp1\\WindowsFormsApp1\\Model\\frmAddCustomer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Model\\frmAddCustomer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T04:00:17.834Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
