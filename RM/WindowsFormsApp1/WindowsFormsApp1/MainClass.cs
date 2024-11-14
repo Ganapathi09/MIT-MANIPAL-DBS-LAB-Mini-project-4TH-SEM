@@ -16,7 +16,7 @@ namespace WindowsFormsApp1
     internal class MainClass
     {
 
-        public static readonly string con_string = @"Data source=DESKTOP-KTDQSKA\SQLEXPRESS;initial catalog=RM;User ID=sa; Password=gana;";
+        public static readonly string con_string = @"Data source=add_pc_name_address\SQLEXPRESS;initial catalog=RM;User ID=sa; Password=add_password;";
         public static SqlConnection con = new SqlConnection(con_string);
 
         //method to check user validation
