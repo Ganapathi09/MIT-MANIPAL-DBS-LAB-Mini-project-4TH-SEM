@@ -1,0 +1,1 @@
+store a completed order in manger table and get notified to the manger

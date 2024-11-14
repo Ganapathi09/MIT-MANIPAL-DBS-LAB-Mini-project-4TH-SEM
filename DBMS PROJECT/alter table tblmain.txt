@@ -1,0 +1,43 @@
+alter table tblmain
+add  tableid int 
+
+
+
+alter table tblmain
+add constraint fk_tableMain_table foreign key(tableid) references tables(tid)
+
+
+
+-------------------------------------------------------------------------------------------------------------
+
+alter table tblmain
+add  waiterid int 
+
+
+
+alter table tblmain
+add constraint fk_tableMain_staff foreign key(waiterid) references staff(staffid)
+
+
+------------------------------------------------------------------------------
+
+alter table tblDetails
+add constraint fk_tableDetails_tableMain foreign key(Mainid) references tblMain(Mainid)
+
+alter table tblDetails
+add constraint fk_tableDetails_products foreign key(proid) references products(pid)
+----------------------------------------------------------------------------------------
+
+alter table products
+add constraint fk_products_category foreign key(CategoryID) references category(catid)
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------
+

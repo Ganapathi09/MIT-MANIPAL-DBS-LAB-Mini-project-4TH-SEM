@@ -1,0 +1,21 @@
+CREATE TABLE Orders (
+    OrderID INT PRIMARY KEY IDENTITY,
+    WaiterName VARCHAR(25) NOT NULL,
+    OrderDate DATETIME NOT NULL,
+    );
+
+CREATE TABLE OrderItems (
+    OrderItemID INT PRIMARY KEY IDENTITY,
+    OrderID INT NOT NULL,
+    ItemID INT NOT NULL,
+    Quantity INT NOT NULL,
+    FOREIGN KEY (OrderID) REFERENCES Orders(OrderID),
+    FOREIGN KEY (ItemID) REFERENCES Menu(ItemID)
+);
+
+
+create table category
+(
+catID int primary key identity,
+catName varchar(50)
+)
